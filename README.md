@@ -1,25 +1,33 @@
-# ⁂⁙☆* Início da minha jornada na Programação *☆⁙⁂
+# ⁂⁙☆* Start of my Programming Journey *☆⁙⁂
 
-Bem-vindo(a) ao meu primeiro repositório! ♡♡
+Welcome to my first repository!! ♡♡
 
-Tenho 17 anos e este espaço foi criado para documentar o início da minha carreira em tecnologia. Acredito que a base de um bom software é uma lógica sólida, por isso estou dedicando este tempo para dominar os fundamentos.
+I am 17 years old, and this space was created to document the beginning of my career in technology. I believe that the foundation of good software is solid logic, which is why I am dedicating this time to mastering the fundamentals.
 
-### ( ﾉ ﾟｰﾟ)ﾉ Objetivo Profissional
-Meu foco principal é a transição para o **Java**, visando o setor de **Fintechs e Mercado Financeiro**. Escolhi o Python para desbravar a lógica inicial pela sua simplicidade, mas busco o rigor e o detalhismo que as linguagens de tipagem forte exigem.
+### ( ﾉ ﾟｰﾟ)ﾉ Professional Goal
+My main focus is transitioning to Java, targeting the Fintech and Financial Market sectors. I chose Python to explore initial logic due to its simplicity, but I seek the rigor and detail that strongly typed languages require.
 
-### ✍(◔◡◔) O que estou estudando agora?
-Atualmente, estou resolvendo desafios de lógica no **Google Colab**, focando em:
-- [x] Variáveis, Tipos de dados e Operadores Matemáticos
-- [x] Estruturas Condicionais (Tomada de decisão: `if` , `elif` e `else`)
-- [x] Laços de Repetição (`while` , `for` e `range` )
-- [ ] Funções e Procedimentos (Próximo passo!)
+### (✿◠‿◠) Initial Projects
+In this repository, you will find:
+- **Fundamentals:** Variables, data input, and mathematical operators (Practicing float data manipulation and decimal precision).
+- **Conditionals:** Decision-making structures `if`, `elif`, `else` and `match/case` (Testing multiple conditions and approval logic).
+- **Repetition:** Process automation using `while` and `for` loops (Exploring loop behavior).
+- **Projects and Strings:** Advanced text manipulation and my first complete game logic (**Jokenpo/Rock-Paper-Scissors**).
 
-### (✿◠‿◠) Projetos Iniciais
-Neste repositório você encontra:
-* **Simulador de Empréstimo:** Testando múltiplas condições e lógica de aprovação.
-* **Conversor de Moedas:** Praticando manipulação de dados `float` e precisão decimal.
-* **Gerador de Tabuada:** Explorando o comportamento dos loops.
+### ヽ(✿ﾟ▽ﾟ)ノ Technologies & Tools:
+* **Language:** Python 3
+* **Version Control:** Git & GitHub (Mastery of Commits and Push via Terminal)
+* **Editor:** Visual Studio Code
 
+### ✍(◔◡◔) What am I studying now?
+
+<img src="https://i.pinimg.com/originals/c0/1a/cc/c01acc6f110e5956a1f7fdae92f60850.gif" align="right" width="270px">
+
+Currently, I am solving logic challenges on Google Colab, focusing on:
+- [x] Functions and Procedures
+- [x] Matrices and Vectors (ou Arrays)
+- [x] Basic Front-end (HTML/CSS)
 ---
-*"Construindo o futuro por uma linha de código por vez. ᓚᘏᗢ "* 07/02/2026
+*"Building the future one line of code at a time."* 
+07/02/2026
 
