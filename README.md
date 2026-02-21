@@ -10,9 +10,9 @@ My main focus is transitioning to Java, targeting the Fintech and Financial Mark
 ### (✿◠‿◠) Initial Projects
 In this repository, you will find:
 - **Fundamentals:** Variables, data input, and mathematical operators (Practicing float data manipulation and decimal precision).
-- **Conditionals:** Decision-making with if, elif, and else structures (Testing multiple conditions and approval logic).
-- **Repetition:** Process automation using while and for loops (Exploring loop behavior).
-- **Projects and Strings:** Text manipulation and the final Rock Paper Scissors **(Jokenpô)** project.
+- **Conditionals:** Decision-making structures `if`, `elif`, `else` and `match/case` (Testing multiple conditions and approval logic).
+- **Repetition:** Process automation using `while` and `for` loops (Exploring loop behavior).
+- **Projects and Strings:** Advanced text manipulation and my first complete game logic (**Jokenpo/Rock-Paper-Scissors**).
 
 ### ヽ(✿ﾟ▽ﾟ)ノ Technologies & Tools:
 * **Language:** Python 3
