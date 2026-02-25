@@ -1,6 +1,6 @@
 # ⁂⁙☆* Start of my Programming Journey *☆⁙⁂
 
-Welcome to my first repository!! ♡♡
+#### Welcome to my first repository!! ♡♡
 
 I am 17 years old, and this space was created to document the beginning of my career in technology. I believe that the foundation of good software is solid logic, which is why I am dedicating this time to mastering the fundamentals.
 
@@ -9,13 +9,21 @@ My main focus is transitioning to Java, targeting the Fintech and Financial Mark
 
 ### (✿◠‿◠) Initial Projects
 In this repository, you will find:
+
+#### ☆ Python (learning the logic)
 - **Fundamentals:** Variables, data input, and mathematical operators (Practicing float data manipulation and decimal precision).
 - **Conditionals:** Decision-making structures `if`, `elif`, `else` and `match/case` (Testing multiple conditions and approval logic).
 - **Repetition:** Process automation using `while` and `for` loops (Exploring loop behavior).
 - **Projects and Strings:** Advanced text manipulation and my first complete game logic (**Jokenpo/Rock-Paper-Scissors**).
 
+#### ☆ JavaScript & Web Fundamentals
+I've started exploring the Web ecosystem to complement my Backend studies. In my first intensive day, I mastered:
+- **JS Syntax:** Variables (`let`, `const`), basic data types, and console manipulation.
+- **HTML5 Skeleton:** Building the structural base for web applications.
+- **Integration:** Connecting logic (JS) with structure (HTML).
+
 ### ヽ(✿ﾟ▽ﾟ)ノ Technologies & Tools:
-* **Language:** Python 3
+* **Language:** Python 3, JavaScript.
 * **Version Control:** Git & GitHub (Mastery of Commits and Push via Terminal)
 * **Editor:** Visual Studio Code
 
@@ -24,10 +32,11 @@ In this repository, you will find:
 <img src="https://i.pinimg.com/originals/c0/1a/cc/c01acc6f110e5956a1f7fdae92f60850.gif" align="right" width="270px">
 
 Currently, I am solving logic challenges on Google Colab, focusing on:
-- [x] Functions and Procedures
-- [x] Matrices and Vectors (ou Arrays)
-- [x] Basic Front-end (HTML/CSS)
----
-*"Building the future one line of code at a time."* 
+- [x] HTML5 (O Estrutural)
+- [x] CSS3 (O Visual)
+- [x] JavaScript (A Lógica do Navegador)
+<hr>
+
+*"Building the future one line of code at a time."* <br/>
 07/02/2026
 
