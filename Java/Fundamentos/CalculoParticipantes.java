@@ -15,7 +15,9 @@ public class CalculoParticipantes {
         double valorTotal = valorAss + valorNass;
 
         System.out.printf("O valor total apurado dos associados e não associados é de %.2f reais%n", valorTotal);
-        
+
+//        tarara
+
         scanner.close();
     }
 }
